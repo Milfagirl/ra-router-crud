@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  background-color: rgb(160, 160, 245);
+  padding: 5px;
+}
+
+img {
+  width: 90px;
+  border-radius: 2px;
+}
+
+.post {
+  background-color: white;
+  width: 500px;
+  height: 100px;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.post-picture {
+  display: flex;
+  background-color: white;
+  
+}
+.time {
+  text-align: left;
+  font-size: small;
+  color: grey;
+}
+a {
+  color: rgb(73, 73, 240);
+  cursor: pointer;
+  text-decoration: none;
+}
+.content {
+  color: black;
+  text-align: left;
+  background-color: white;
+}
+
+div {
+  border-radius: 2px;
+}
+button {
+  border-radius: 6px;
+  background-color:  rgb(73, 73, 240);
+  color: white;
+}
+.post-picture div {
+  margin-left: 5px;
+}
